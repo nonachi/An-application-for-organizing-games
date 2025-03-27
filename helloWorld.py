@@ -1,3 +1,4 @@
+# Изменение входных данных!
 import math
 
 def calculate_product_for_sum1(c, j):
@@ -33,4 +34,4 @@ def main(b, a, m, n, z):
     return sum1 - sum2
 
 if __name__ == '__main__':
-    print("Результат:", main(2, 2, 2, 2, 1))
+    print("Результат:", main(1, 2, 3, 4, 5))
